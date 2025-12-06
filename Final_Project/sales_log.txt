@@ -1,0 +1,3 @@
+2025-12-05 08:12:33|Ayam Geprek (Pakai Nasi)|4|40000
+2025-12-05 08:12:33|Es Teh Besar|1|3000
+2025-12-05 08:13:12|Ayam Geprek (Pakai Nasi)|6|60000

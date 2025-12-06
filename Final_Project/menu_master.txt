@@ -1,0 +1,16 @@
+1|Ayam Geprek (Pakai Nasi)|10000|Makanan
+2|Ayam Geprek (Tanpa Nasi)|8000|Makanan
+3|Ayam Rica (Pakai Nasi)|10000|Makanan
+4|Ayam Rica (Tanpa Nasi)|7000|Makanan
+5|Tempe Tepung (pcs)|2000|Makanan
+6|Es Teh Kecil|2000|Minuman
+7|Es Teh Besar|3000|Minuman
+8|Es Jeruk Kecil|3000|Minuman
+9|Es Jeruk Besar|4000|Minuman
+10|Es Capucino Kecil|4000|Minuman
+11|Es Capucino Besar|5000|Minuman
+12|Cah Kangkung|5000|Sayur
+13|Oseng Buncis|5000|Sayur
+14|Sayur Asem|5000|Sayur
+15|Penyetan Terong|5000|Sayur
+16|Ayam Bakar (Pakai Nasi)|15000|makanan
