@@ -22,9 +22,6 @@ import java.util.*;
  * - Kasir  : 1111
  * - Admin  : 2222
  * - Owner  : 3333
- *
- * Author: ChatGPT for Ilham
- * Tanggal: 2025-12-05
  */
 
 class MenuItem {
