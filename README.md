@@ -17,3 +17,9 @@ Program kasir ini menggunakan bahasa java dengan berbagai keunggulan di setiap r
        - Laporan finansial komprehensif
        - Analisa produk terlaris (Top Selling)
        - Laporan harian otomatis
+
+Secara keseluruhan program ini juga memiliki kelebihan seperti: 
+  1. Dapat menyimpan data persistem karena memanfaatkan sistem file Input Output (File I/O)
+  2. Penanganan error (validasi input) karena terdapat program di method validInt() yang memastikan program tidak crash
+  3. Program multi user dan memiliki keamanan dasar karena setiap inputan role dilengkapi pin
+  4. Penerapan OOP yang Kuat (Encapsulation & Modularity) karena program ini memecah fungsi-fungsi menjadi kelas yang spesifik
